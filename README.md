@@ -1,4 +1,12 @@
-### Hi there 👋
+### My name is <a href="https://ariel-lima.github.io/profile/">Ariel</a>  👋
+Just finished Le Wagon's WebDev bootcamp :train: ready to get new challenges :simple_smile:
+
+- 🔭 I’m currently working on <a href="https://www.scanher.co.uk/">scanHer</a>, an website for women get appointments and scans quicker than the NHS system
+- 🌱 I’m currently learning React, Node.js and French
+
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ariello/">Linkedin</a> ‧ <a href="https://www.behance.net/ariellimadesign">Behance</a> 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Even though being from Brazil, i can quite handle the cold, actually enjoy it
 
 <!--
 **ariel-lima/ariel-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
