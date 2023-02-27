@@ -2,11 +2,11 @@
 Just finished Le Wagon's WebDev bootcamp :train: ready to get new challenges 😃
 
 - 🔭 I’m currently working on <a href="https://www.scanher.co.uk/">scanHer</a>, a website for women to get appointments and scans quicker than with the NHS system
-- 🌱 I’m currently learning React, Node.js and French
+- 🌱 I’m currently learning React, Node.js and German 🇩🇪
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ariello/">Linkedin</a> ‧ <a href="https://www.behance.net/ariellimadesign">Behance</a> 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Even though I'm from Brazil, I can handle the cold. I actually enjoy it!
+- ⚡ Fun fact: I like the cold ❄️
 
 <!--
 **ariel-lima/ariel-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
